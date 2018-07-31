@@ -5,9 +5,9 @@ class App < Sinatra::Base
   "My name is Claire"
   end 
  get 'hometown' do
-  "My name is Claire"
+  "My hometown is St.Paul"
   end 
- get 'name' do
+ get 'favorite' do
   "My name is Claire"
   end 
 end
