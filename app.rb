@@ -4,7 +4,7 @@ class App < Sinatra::Base
   get 'name' do
   "My name is Claire"
   end 
- get 'name' do
+ get 'hometown' do
   "My name is Claire"
   end 
  get 'name' do
